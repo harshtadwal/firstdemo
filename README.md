@@ -1,3 +1,3 @@
 # firstdemo
 this is my first repository
-Author :- Harsh Tadwal
+Author :- Harshu ka kaam bada acha hota haaa
